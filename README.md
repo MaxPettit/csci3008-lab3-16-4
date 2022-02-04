@@ -7,3 +7,4 @@ Project Team Members:
 Joseph Rizzo
 Beckett Hyde
 Max Pettit
+Amandaliss Dropik
