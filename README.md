@@ -5,3 +5,4 @@ World peace. #MissUniverse2030
 
 Project Team Members:
 Beckett Hyde
+Max Pettit
