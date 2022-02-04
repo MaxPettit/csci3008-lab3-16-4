@@ -1,3 +1,3 @@
 # csci3308-lab3-16-4
 
-Project Team Members:
+Project Team Members: Max Pettit
